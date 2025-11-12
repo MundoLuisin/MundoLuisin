@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on: **〻 Diferent projects 〻**
 - 🌱 I’m currently learning: **❦ AI & Blockchains ❦**
+- 🎯 I’m currently mastering: **✿ C++ and python ✿**
 
 ### Languages and Tools:
 <br>
