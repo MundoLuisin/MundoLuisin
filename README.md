@@ -2,8 +2,6 @@
 
 ### ╰┈➤ A fullstack developer...
 
-![Profile Views](https://komarev.com/ghpvc/?username=mundoluisin&label=Profile%20views&color=0e75b6&style=flat)
-
 - 🔭 I’m currently working on: **〻 Diferent projects 〻**
 - 🌱 I’m currently learning: **❦ AI & Blockchains ❦**
 - 🎯 I’m currently mastering: **✿ C++ and python ✿**
