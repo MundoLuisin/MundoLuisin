@@ -1,4 +1,4 @@
-<img width="960" height="1081" alt="image" src="https://github.com/user-attachments/assets/1653876c-64b0-4035-85bf-ae64c9738528" /># ★彡[MundoLuisin]彡★
+# ★彡[MundoLuisin]彡★
 
 ### ╰┈➤ A fullstack developer...
 
@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://es.wikipedia.org/wiki/Archivo:ISO_C%2B%2B_Logo.svg" height="30" alt="C++ logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png" height="30" alt="C++ logo"  />
   <img width="12" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30" alt="git logo"  />
 </div>
